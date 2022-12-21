@@ -66,4 +66,6 @@ void main(List<String> args) {
   // başka bir örnek
 
   print(age > 18 ? "Yetişkin" : "Çocuk");
+
+  // Daha fazlası için dart dökümanlarına bakınız.. :)
 }
